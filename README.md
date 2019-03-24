@@ -17,3 +17,6 @@ The order in which the notebooks must be executed is as follows:
 6 - markov
 
 7 - ensemble
+
+
+** The data used on this research is too large to be uploaded to git. If you want to use it, please send me an email on nessabrolim@gmail.com and i'll send to you.
